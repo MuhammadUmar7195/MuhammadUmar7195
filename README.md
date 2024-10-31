@@ -2,19 +2,19 @@
 <h3 align="center">A passionate React developer from Pakistan</h3>
 <img align = "right" style = "border-radius: 5px;" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- 🌱 I’m currently learning **React js, Node js and Native for Mobile Application**
+- 🌱 I’m currently learning **React js, Node js for Web Application**
 
 - 👯 I’m looking to collaborate on **open source contribution**
 
-- 👨‍💻 All of my projects are available at [http://muhammad-umar-ten.vercel.app/](http://muhammad-umar-ten.vercel.app/)
+- 👨‍💻 All of my practice projects are available at [http://muhammad-umar-pied.vercel.app/](http://muhammad-umar-ten.vercel.app/)
 
-- 📝 I regularly write articles on [https://mmuhammadumar869.medium.com/](https://mmuhammadumar869.medium.com/)
+- 📝 I write articles on [https://mmuhammadumar869.medium.com/](https://mmuhammadumar869.medium.com/)
 
 - 💬 Ask me about **React js, C++, Javascript**
 
 - 📫 How to reach me **mmuhammadumar869@gmail.com**
 
-- 📄 Know about my experiences [https://muhammad-umar-ten.vercel.app/resume](https://muhammad-umar-ten.vercel.app/resume)
+- 📄 Know about my experiences [https://muhammad-umar-pied.vercel.app/resume](https://muhammad-umar-ten.vercel.app/resume)
 
 - ⚡ Fun fact **I think I handle things through smart approach**
 
