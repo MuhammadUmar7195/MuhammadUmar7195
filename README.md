@@ -6,15 +6,14 @@
 
 - 👯 I’m looking to collaborate on **open source contribution**
 
-- 👨‍💻 All of my practice projects are available at [http://muhammad-umar-pied.vercel.app/](http://muhammad-umar-ten.vercel.app/)
-
+- 👨‍💻 All of my practice projects are available at https://muhammad-umar-pied.vercel.app
 - 📝 I write articles on [https://mmuhammadumar869.medium.com/](https://mmuhammadumar869.medium.com/)
 
 - 💬 Ask me about **React js, C++, Javascript**
 
 - 📫 How to reach me **mmuhammadumar869@gmail.com**
 
-- 📄 Know about my experiences [https://muhammad-umar-pied.vercel.app/resume](https://muhammad-umar-ten.vercel.app/resume)
+- 📄 Know about my experiences https://muhammad-umar-pied.vercel.app/resume
 
 - ⚡ Fun fact **I think I handle things through smart approach**
 
