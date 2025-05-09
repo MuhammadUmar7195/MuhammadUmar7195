@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🔥 About Me
+### 🔥 About Me
 
 - 🌱 Currently mastering **React.js & Node.js ecosystem**
 - 👨‍💻 Portfolio: [muhammad-umar.vercel.app](https://muhammad-umar-pied.vercel.app)
@@ -14,7 +14,7 @@
 - 📄 My Resume: [View Resume](https://muhammad-umar-pied.vercel.app/resume)
 - ⚡ Fun fact: **I optimize life like I optimize code!**
 
-## 💻 Technical Skills
+### 💻 Technical Skills
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
