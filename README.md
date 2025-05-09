@@ -1,6 +1,6 @@
-# Hello World! 👋 I'm Muhammad Umar
+# Hi! 👋 I'm M. Umar
 
-### 🚀 Full stack Developer | Problem Solver | Open Source Enthusiast | Tech Writer
+### 🚀 Software Engineer | Open Source Contributer | Tech Writer
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
