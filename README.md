@@ -34,10 +34,15 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+
 
 ### Styling & UI
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-111827?logo=tailwindcss&logoColor=white)
+![daisyUI](https://img.shields.io/badge/-daisyUI-F59E0B?logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?logo=mui&logoColor=white)
 
 ### Tools & Platforms
