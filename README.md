@@ -12,7 +12,7 @@
 - 💡 Passionate about **clean code & problem solving**
 - 📫 Reach me: **mmuhammadumar869@gmail.com**
 - 📄 My Resume: [View Resume](https://muhammad-umar-pied.vercel.app/resume)
-- ⚡ Fun fact: **I optimize life like I optimize code!**
+- ⚡ Fun fact: **I optimise life like I optimise code!**
 
 ### 💻 Technical Skills
 
@@ -80,6 +80,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadumar7195&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumar7195" />
-</p>
