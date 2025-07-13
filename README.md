@@ -63,7 +63,13 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar7195&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-## 🤝 Let's Connect
+### 🖼️ Dynamic Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumar7195&bg_color=1d1d1d&color=F97316&line=4ADE80&point=FFFFFF&hide_border=true" />
+</p>
+
+### 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/umar-asif" target="_blank">
@@ -73,7 +79,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://leetcode.com/mmuhammadumar869" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:mmuhammadumar869@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
