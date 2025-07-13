@@ -52,15 +52,15 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats & Graphs
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadumar7195&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar7195&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadumar7195&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=muhammadumar7195&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar7195&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar7195&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ### 🖼️ Dynamic Contributions
