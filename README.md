@@ -14,7 +14,7 @@
 - 📄 My Resume: [View Resume](https://muhammad-umar-pied.vercel.app/resume)
 - ⚡ Fun fact: **I optimise life like I optimise code!**
 
-### 💻 Technical Skills
+### 💻 Technical Skills 
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
