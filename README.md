@@ -1,4 +1,4 @@
-# Hi! 👋 I'm M. Umar
+# Hi! 👋 I'm Umar Asif
 
 ## Software Engineer | Open Source Contributor | Tech Writer
 
