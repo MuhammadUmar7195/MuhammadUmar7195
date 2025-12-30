@@ -1,18 +1,23 @@
-# Hi! 👋 I'm Umar Asif
+<p align="center">
+  <h1 align="center">Hi! 👋 I'm Umar Asif</h1>
+</p>
 
-## Software Engineer | Open Source Contributor | Tech Writer
+<p align="center">
+  <h3 align="center">Software Engineer | Open Source Contributor | Tech Writer </h3>
+</p>
+
+<hr/>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
-### 🔥 About Me
+### About Me
 
 - 🌱 Currently mastering **React.js & Node.js ecosystem**
-- 👨‍💻 Portfolio: [muhammad-umar.vercel.app](https://muhammad-umar-pied.vercel.app)
+- 👨‍💻 Portfolio: [Umar-Asif](https://muhammadumar.dev)
 - ✍️ Tech Blog: [Medium Articles](https://mmuhammadumar869.medium.com/)
 - 💡 Passionate about **clean code & problem solving**
 - 📫 Reach me: **mmuhammadumar869@gmail.com**
-- 📄 My Resume: [View Resume](https://muhammad-umar-pied.vercel.app/resume)
-- ⚡ Fun fact: **I optimise life like I optimise code!**
+- 📄 My Resume: [View Resume](https://muhammadumar.dev/resume)
 
 ### 💻 Technical Skills 
 
