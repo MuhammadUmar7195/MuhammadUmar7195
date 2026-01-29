@@ -68,12 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar7195&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
-### 🖼️ Dynamic Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumar7195&bg_color=1d1d1d&color=F97316&line=4ADE80&point=FFFFFF&hide_border=true" />
-</p>
-
 ### 🤝 Let’s Connect
 
 <p align="center">
