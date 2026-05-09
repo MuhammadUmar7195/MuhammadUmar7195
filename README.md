@@ -12,12 +12,10 @@
 
 ### About Me
 
-- 🌱 Currently mastering **React.js & Node.js ecosystem**
-- 👨‍💻 Portfolio: [Umar-Asif](https://muhammadumar.dev)
-- ✍️ Tech Blog: [Medium Articles](https://mmuhammadumar869.medium.com/)
-- 💡 Passionate about **clean code & problem solving**
-- 📫 Reach me: **mmuhammadumar869@gmail.com**
-- 📄 My Resume: [View Resume](https://muhammadumar.dev/resume)
+- Portfolio: [Umar-Asif](https://muhammadumar.dev)
+- Tech Blog: [Medium Articles](https://mmuhammadumar869.medium.com/)
+- Reach me: **mmuhammadumar869@gmail.com**
+- My Resume: [View Resume](https://muhammadumar.dev/resume)
 
 ### 💻 Technical Skills 
 
