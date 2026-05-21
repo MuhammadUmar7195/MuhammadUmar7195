@@ -14,7 +14,7 @@
 
 - Portfolio: [Umar-Asif](https://muhammadumar.dev)
 - Tech Blog: [Medium Articles](https://mmuhammadumar869.medium.com/)
-- Reach me: **mmuhammadumar869@gmail.com**
+- Reach me: **umarasif371@gmail.com**
 
 ### 💻 Technical Skills 
 
