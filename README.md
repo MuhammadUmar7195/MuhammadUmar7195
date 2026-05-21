@@ -15,7 +15,6 @@
 - Portfolio: [Umar-Asif](https://muhammadumar.dev)
 - Tech Blog: [Medium Articles](https://mmuhammadumar869.medium.com/)
 - Reach me: **mmuhammadumar869@gmail.com**
-- My Resume: [View Resume](https://muhammadumar.dev/resume)
 
 ### 💻 Technical Skills 
 
