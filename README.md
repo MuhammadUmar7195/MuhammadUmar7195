@@ -3,7 +3,7 @@
 </p> 
 
 <p align="center">
-  <h3 align="center">Software Engineer | Open Source Contributor </h3>
+  <h3 align="center">AI Software Engineer | Cloud & DevOps | Open Source Contributor  </h3>
 </p>
 
 <hr/>
